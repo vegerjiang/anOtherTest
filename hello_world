@@ -1,5 +1,6 @@
-#include<stdio.h>
-int main(){
-  printf("hello world");
-  return 0;
-}
+<html>
+<head><title>ggg</title></head>
+<body>
+<a href="http://www.baidu.com">ta</a>
+</body>
+</html>
